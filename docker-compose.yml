@@ -21,6 +21,5 @@ services:
       - ./py3/root_jupyter:/root/.jupyter
       - ./workspace:/workspace
       - /mnt/f/study_data:/data
-      - /mnt/c/Windows/Fonts:/Fonts
 
       
